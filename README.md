@@ -50,7 +50,7 @@ The image above is an example of a windows 10 4 VCPU, virtual machine with a use
 <img src="https://i.imgur.com/pUxzJzT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Above are the files that need to be downloaded from installation files prior to downloading os-ticket.
+Above are the files that need to be downloaded from installation files prior to downloading os-ticket and only after settind up a virtual machine in azure.
 </p>
 <br />
 

@@ -55,5 +55,17 @@ Above are the files that need to be downloaded from installation files prior to 
 <br />
 
 <P>
-<img src=https://Open IIS
+<img src="https://i.imgur.com/NbJVmQ9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </P>
+<p>
+  Above is an example of what you may see when downloading PHP 7.7.8 from instillation files and were to unzip the contents
+</p>
+<br /> 
+
+<p>
+<img src="https://i.imgur.com/qhlgon4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+</p>
+<p>
+  Above is an example of how to download VC_Redist.x86.exe from instillation files and downloading My Sql 5.5.62 from instillation files before the initial steps to downloading os ticket V1.15.8 
+</p>
+<br />

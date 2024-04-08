@@ -69,3 +69,15 @@ Above are the files that need to be downloaded from installation files prior to 
   Above is an example of how to download VC_Redist.x86.exe from instillation files and downloading My Sql 5.5.62 from instillation files before the initial steps to downloading os ticket V1.15.8 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/4vR2D7m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+ <img src="https://i.imgur.com/N2drDAk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+ <img src="https://i.imgur.com/RwLwtbb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+  <img src="https://i.imgur.com/F8r8fZD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+  <img src="https://i.imgur.com/MvG4NMP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+</p>
+<p>
+ Above is a post instillations list for os ticket, which comes with an example on how to configure roles, departments, teams, agents, users, SLAs and , help desk topics. 
+</p>
+<br />

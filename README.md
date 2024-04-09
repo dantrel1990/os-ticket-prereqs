@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/pUxzJzT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bcAjrAp.png  " height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The image above intels detailed instructions on how to install prerequisites 
@@ -47,7 +47,7 @@ The image above is an example of a windows 10 4 VCPU, virtual machine with a use
 <br />
 
 <p>
-<img src="https://i.imgur.com/bcAjrAp.png " height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pUxzJzT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Above are the files that need to be downloaded from installation files prior to downloading os-ticket and only after settind up a virtual machine in azure.

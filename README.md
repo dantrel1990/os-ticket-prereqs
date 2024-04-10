@@ -43,7 +43,7 @@ The image above is an example of how to create a resource group, storage account
 <br />
 
 <p>
-<img src=" " height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TKPCNgE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The image above intels detailed instructions on how to install prerequisites 

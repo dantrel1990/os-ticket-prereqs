@@ -31,7 +31,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/bcAjrAp.png  " height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PX8lQoo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/vbSc5Os.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+
+<img src="https://i.imgur.com/ElDkP64.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>    
+</p>
+<p>
+The image above is an example of how to create a resource group, storage account, and a virtual machine
+</p>
+<br />
+
+<p>
+<img src=" " height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The image above intels detailed instructions on how to install prerequisites 

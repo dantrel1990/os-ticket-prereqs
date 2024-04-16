@@ -61,6 +61,14 @@ on different virtual machines at the same time.
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/dVA3ca5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<P>
+Above is an image of how to use remote desktop connection 
+which is a secure, interoperable protocol that creates secure connections between clients, servers and virtual machines  
+</P>
+<br />
 
 
 <p>

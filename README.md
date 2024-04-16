@@ -23,7 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - PHP Manager For IIS
-- Rewrite Modual
+- Rewrite Module
 - PHP 7.3.8
 - VC Redist86.exe.
 - MYSQL 5.5.62
@@ -65,8 +65,8 @@ on different virtual machines at the same time.
 <img src="https://i.imgur.com/dVA3ca5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <P>
-Above is an image of how to use remote desktop connection 
-which is a secure, interoperable protocol that creates secure connections between clients, servers and virtual machines  
+Above is an image of how to use a remote desktop connection 
+which is a secure, interoperable protocol that creates secure connections between clients, servers, and virtual machines  
 </P>
 <br />
 
@@ -75,7 +75,7 @@ which is a secure, interoperable protocol that creates secure connections betwee
 <img src="https://i.imgur.com/GGVb7ZZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The image above is an example of a windows 10 4 VCPU, virtual machine with a username and password setup made in azure.
+The image above is an example of a Windows 10 4 VCPU, virtual machine with a username and password setup made in Azure.
 </p>
 <br />
 
@@ -85,7 +85,7 @@ The image above is an example of a windows 10 4 VCPU, virtual machine with a use
 <img src="https://i.imgur.com/hiPfGP0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
-Above is an image of all the files that need to be downloaded from instillation files before downloading osTicket.  
+Above is an image of all the files that need to be downloaded from installation files before downloading osTicket.  
 </p>
 <br />
 
@@ -95,7 +95,7 @@ Above is an image of all the files that need to be downloaded from instillation 
 <img src="https://i.imgur.com/0i4UHgz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
-The image above intels detailed instructions on how to install prerequisites 
+The image above includes detailed instructions on how to install prerequisites for osTicket.
 </p>
 <br />
 

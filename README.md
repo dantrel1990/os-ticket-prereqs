@@ -31,16 +31,38 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/PX8lQoo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-<img src="https://i.imgur.com/vbSc5Os.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
-
-<img src="https://i.imgur.com/ElDkP64.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>    
+<img src="https://i.imgur.com/vbSc5Os.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>     
 </p>
 <p>
-The image above is an example of how to create a resource group, storage account, and a virtual machine
+The example above shows an Azure Storage Account. It stores objects 
+such as blobs, files, queues, and tables.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/PX8lQoo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+</p>
+<p>
+Above is an example of a resource group. 
+A resource group is a container that holds related resources, 
+such as web apps, virtual machines, data stores, and service management. 
+</p>
+<br />
+
+
+
+<p> 
+<img src="https://i.imgur.com/ElDkP64.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+Above is an example of a virtual machine.
+a virtual machine or (hypervisor) is software that lets a user run different operating systems 
+on different virtual machines at the same time.  
+</p>
+<br />
+
+
+
 
 <p>
 <img src="https://i.imgur.com/TKPCNgE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

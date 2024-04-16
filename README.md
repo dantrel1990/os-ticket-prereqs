@@ -83,6 +83,8 @@ Above is an image of all the files that need to be downloaded from instillation 
 
 <p>
 <img src="https://i.imgur.com/TKPCNgE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2nyaaOI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0i4UHgz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 The image above intels detailed instructions on how to install prerequisites 

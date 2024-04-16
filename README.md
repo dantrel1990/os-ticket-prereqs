@@ -73,7 +73,7 @@ The image above intels detailed instructions on how to install prerequisites
 <br />
 
 <p>
-<img src="https://i.imgur.com/vmtEupF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GGVb7ZZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The image above is an example of a windows 10 4 VCPU, virtual machine with a username and password setup made in azure.

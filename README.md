@@ -35,7 +35,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 The example above shows an Azure Storage Account. It stores objects 
-such as blobs, files, queues, and tables.
+such as blobs, files, queues, and tables. The storage account provides a unique namespace for your Azure Storage data that's 
+accessible from anywhere in the world over HTTP or HTTPS. Data in your storage account is durable and highly available, secure, and massively scalable.
 </p>
 <br />
 
@@ -45,7 +46,8 @@ such as blobs, files, queues, and tables.
 <p>
 Above is an example of a resource group. 
 A resource group is a container that holds related resources, 
-such as web apps, virtual machines, data stores, and service management. 
+such as web apps, virtual machines, data stores, and service management.he resource group can include all 
+the resources for the solution, or only those resources that you want to manage as a group. 
 </p>
 <br />
 
